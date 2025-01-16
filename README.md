@@ -21,7 +21,7 @@ After finalizing the new schema, I proceeded to migrate the existing data from t
 
 ## 📚 Supporting Materials
 The project also includes some supporting materials to aid me in completing the tasks:
-- Google Docs Template: This document contains detailed instructions and tasks for the project. I have already created a copy of this document to record my progress and findings.
-- bad_db.sql: This file contains the SQL dump of the current data gathered by Udiddit. I can use this data to test my queries in the SQL Workspace or any other environment as required.
-- DDL Script: This script creates the new database with normalized tables.
-- DML Script: This script migrates data from the old database to the new normalized database.
+- **Google Docs Template:** This document contains detailed instructions and tasks for the project. I have already created a copy of this document to record my progress and findings.
+- **bad_db.sql:** This file contains the SQL dump of the current data gathered by Udiddit. I can use this data to test my queries in the SQL Workspace or any other environment as required.
+- **DDL Script:** This script creates the new database with normalized tables.
+- **DML Script:** This script migrates data from the old database to the new normalized database.
