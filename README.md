@@ -1,11 +1,11 @@
-🎉 Udiddit - Social News Aggregator Project 🎉
+# 🎉 Udiddit - Social News Aggregator Project 🎉
 
-📊 Data Provided
+## 📊 Data Provided
 A PostgreSQL database provided by Udacity contained the following two tables:
 
-'bad_posts'
+- 'bad_posts'
 
-'bad_comments'
+- 'bad_comments'
 
 🏆 Project Results
 The task given to me was divided into three parts:
