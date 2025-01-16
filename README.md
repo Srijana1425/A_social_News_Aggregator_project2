@@ -1,5 +1,6 @@
-#🎉 Udiddit - Social News Aggregator Project 🎉
-##📊 Data Provided
+🎉 Udiddit - Social News Aggregator Project 🎉
+
+📊 Data Provided
 A PostgreSQL database provided by Udacity contained the following two tables:
 
 'bad_posts'
