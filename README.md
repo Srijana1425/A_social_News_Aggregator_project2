@@ -4,6 +4,7 @@
 A PostgreSQL database provided by Udacity contained the following two tables:
 
 `bad_posts`
+
 `bad_comments`
 
 ## 🏆 Project Results
