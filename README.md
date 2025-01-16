@@ -16,7 +16,7 @@ To start off, I delved into the current data model and thoroughly investigated i
 Once I had a clear understanding of the current data model's flaws, the next step was to design and create a new schema for the Udiddit system. This new schema addressed the identified issues and aimed to make the data model more robust and efficient.
 
 ### Part III: 🚀 Migrate the Provided Data
-After finalizing the new schema, I proceeded to migrate the existing data from the provided SQL Workspace (bad_db.sql) into the new schema. This ensured that the system continued to function seamlessly with the updated data model.
+After finalizing the new schema, I proceeded to migrate the existing data from the provided SQL Workspace (`bad_db.sql`) into the new schema. This ensured that the system continued to function seamlessly with the updated data model.
 
 ## 📚 Supporting Materials
 The project also includes some supporting materials to aid me in completing the tasks:
