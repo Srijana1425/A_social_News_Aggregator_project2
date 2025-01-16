@@ -25,3 +25,10 @@ The project also includes some supporting materials to aid me in completing the 
 - **bad_db.sql:** This file contains the SQL dump of the current data gathered by Udiddit. I can use this data to test my queries in the SQL Workspace or any other environment as required.
 - **DDL Script:** This script creates the new database with normalized tables.
 - **DML Script:** This script migrates data from the old database to the new normalized database.
+
+## 📂 Files Used
+- `bad_db.sql`
+- `Udiddit, A Social News Aggregator Student Starter Template`
+
+## 🔧 Credits
+- Udacity
